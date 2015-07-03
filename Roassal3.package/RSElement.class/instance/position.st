@@ -1,3 +1,3 @@
 bloc - accessing
 position
-	^ blocView position
+	^ blocView position "center"

@@ -1,0 +1,14 @@
+{
+	"category" : "Roassal3-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "RSBoxTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

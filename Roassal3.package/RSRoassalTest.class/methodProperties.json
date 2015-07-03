@@ -3,5 +3,10 @@
 		 },
 	"instance" : {
 		"testAddingOneElement" : "AlexandreBergel 7/3/2015 14:49",
+		"testAddingOneElementError" : "AlexandreBergel 7/3/2015 16:35",
+		"testElementCreationAndBloc" : "AlexandreBergel 7/3/2015 16:27",
+		"testHorizontalLineLayout" : "AlexandreBergel 7/3/2015 16:40",
+		"testHorizontalLineLayoutWith2Elements" : "AlexandreBergel 7/3/2015 16:54",
 		"testInitialElementPosition" : "AlexandreBergel 7/3/2015 15:54",
-		"testTranslatingElement" : "AlexandreBergel 7/3/2015 15:56" } }
+		"testTranslatingElement" : "AlexandreBergel 7/3/2015 15:56",
+		"testView" : "AlexandreBergel 7/3/2015 16:16" } }

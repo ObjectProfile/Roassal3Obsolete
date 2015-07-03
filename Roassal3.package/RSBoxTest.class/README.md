@@ -1,0 +1,1 @@
+A RSBoxTest is a test class for testing the behavior of RSBox
