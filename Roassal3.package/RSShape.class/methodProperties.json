@@ -1,6 +1,9 @@
 {
 	"class" : {
+		"element" : "AlexandreBergel 7/3/2015 15:55",
 		"elementOn:" : "AlexandreBergel 7/3/2015 12:13" },
 	"instance" : {
 		"createBlocViewFor:" : "AlexandreBergel 7/3/2015 14:24",
-		"elementOn:" : "AlexandreBergel 7/3/2015 14:47" } }
+		"element" : "AlexandreBergel 7/3/2015 15:55",
+		"elementOn:" : "AlexandreBergel 7/3/2015 14:47",
+		"render:On:" : "AlexandreBergel 7/3/2015 15:53" } }

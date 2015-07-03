@@ -7,7 +7,7 @@ example01
 	v := RSView new.
 	v add: (RSBox elementOn: 'hello').
 	
-	e := (RSBox new width: 20; height: 30; yourself) elementOn: 'world'.
+	e := (RSBox new width: 20; height: 30; color: Color blue; yourself) elementOn: 'world'.
 	e translateBy: 50 @ 50.
 	v add: e.
 	v open

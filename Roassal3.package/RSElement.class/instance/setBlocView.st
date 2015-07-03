@@ -1,4 +1,3 @@
-as yet unclassified
+private
 setBlocView
-
 	blocView := shape createBlocViewFor: self

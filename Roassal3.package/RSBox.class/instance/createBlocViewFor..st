@@ -1,6 +1,5 @@
 rendering
 createBlocViewFor: element
-
 	| w h c |
 	w := self widthFor: element.
 	h := self heightFor: element.

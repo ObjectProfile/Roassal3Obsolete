@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAddingOneElement" : "AlexandreBergel 7/3/2015 14:49" } }
+		"testAddingOneElement" : "AlexandreBergel 7/3/2015 14:49",
+		"testInitialElementPosition" : "AlexandreBergel 7/3/2015 15:54",
+		"testTranslatingElement" : "AlexandreBergel 7/3/2015 15:56" } }
