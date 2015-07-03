@@ -1,0 +1,17 @@
+{
+	"category" : "Roassal3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"width",
+		"height",
+		"color",
+		"position" ],
+	"name" : "R3Box",
+	"pools" : [
+		 ],
+	"super" : "R3Shape",
+	"type" : "normal" }

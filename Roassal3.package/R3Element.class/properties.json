@@ -1,0 +1,16 @@
+{
+	"category" : "Roassal3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"shape",
+		"model",
+		"blocView" ],
+	"name" : "R3Element",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
