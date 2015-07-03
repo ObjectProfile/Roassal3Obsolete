@@ -7,5 +7,5 @@ createBlocViewFor: element
 	^ BlRectangleView new
 				extent: w @ h;
 				color: c;
-				position: 0 @ 0
+				center: 0 @ 0
 	

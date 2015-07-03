@@ -1,6 +1,6 @@
 rendering
 buildCompleteView
-	| bm bview |
+	| bm  |
 	bm := BlMorph new withRectangleView.
 	bm
 		viewDo: [ :v | 
@@ -9,6 +9,6 @@ buildCompleteView
 				borderStyle: (BlSolidRectangleBorder new width: 2);
 				color: Color white ].
 	bm extent: 400 @ 400.
-	bview := bm view.
-	elements do: [ :element | element renderOn: bview ].
+	"bview := bm view."
+	elements do: [ :element | element renderOn: bm ].
 	^ bm

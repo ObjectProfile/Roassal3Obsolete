@@ -1,3 +1,3 @@
 bloc actions
 translateTo: aNewPosition
-	blocView position: aNewPosition 
+	blocView center: aNewPosition 

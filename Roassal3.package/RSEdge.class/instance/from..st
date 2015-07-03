@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 from: anElement
 	from ifNotNil: [ :element | element removeConnectedEdge: self ].
 	from := anElement.
