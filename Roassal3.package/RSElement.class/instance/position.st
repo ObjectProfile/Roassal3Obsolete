@@ -1,3 +1,3 @@
 bloc - accessing
 position
-	^ blocView center
+	^ blocMorph center

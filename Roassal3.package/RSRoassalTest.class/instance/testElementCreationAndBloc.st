@@ -7,4 +7,4 @@ testElementCreationAndBloc
 	v add: e.
 	v buildCompleteView.
 	
-	self assert: e blocView equals: e blocView
+	self assert: e blocMorph equals: e blocMorph

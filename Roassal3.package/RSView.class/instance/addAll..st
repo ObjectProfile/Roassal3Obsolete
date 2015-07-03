@@ -1,4 +1,4 @@
 adding
-addAll: anElement
-	self assert: [ anElement isCollection ] description: 'Should provide a collection. Use add: instead'. 
-	elements addAll: anElement
+addAll: someElements
+	"Add a number of of elements to the view"
+	someElements do: [ :el | self add: el ]

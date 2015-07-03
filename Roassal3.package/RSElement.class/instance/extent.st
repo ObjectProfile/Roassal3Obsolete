@@ -1,3 +1,3 @@
 bloc - accessing
 extent
-	^ blocView extent
+	^ blocMorph extent

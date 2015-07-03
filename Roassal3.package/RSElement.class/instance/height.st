@@ -1,3 +1,3 @@
 bloc - accessing
 height
-	^ self extent height
+	^ self extent y

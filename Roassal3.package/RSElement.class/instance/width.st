@@ -1,3 +1,3 @@
 bloc - accessing
 width
-	^ self extent y
+	^ self extent x

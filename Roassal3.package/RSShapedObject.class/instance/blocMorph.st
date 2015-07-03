@@ -1,0 +1,3 @@
+accessing
+blocMorph
+	^ blocMorph

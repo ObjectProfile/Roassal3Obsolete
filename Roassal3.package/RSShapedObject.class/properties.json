@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"blocView",
 		"model",
-		"shape" ],
+		"shape",
+		"blocMorph" ],
 	"name" : "RSShapedObject",
 	"pools" : [
 		 ],

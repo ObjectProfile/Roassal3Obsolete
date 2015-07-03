@@ -9,6 +9,5 @@ buildCompleteView
 				borderStyle: (BlSolidRectangleBorder new width: 2);
 				color: Color white ].
 	bm extent: 400 @ 400.
-	"bview := bm view."
-	elements do: [ :element | element renderOn: bm ].
+	self elementsAndEdgesDo: [ :element | element renderOn: bm ].
 	^ bm
