@@ -6,8 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"connectedEdges" ],
-	"name" : "RSElement",
+		"from",
+		"to",
+		"shouldBeUsedInLayout" ],
+	"name" : "RSEdge",
 	"pools" : [
 		 ],
 	"super" : "RSShapedObject",

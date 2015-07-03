@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"connectedEdges" ],
-	"name" : "RSElement",
+		 ],
+	"name" : "RSLine",
 	"pools" : [
 		 ],
-	"super" : "RSShapedObject",
+	"super" : "RSShape",
 	"type" : "normal" }

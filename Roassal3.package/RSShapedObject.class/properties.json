@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"connectedEdges" ],
-	"name" : "RSElement",
+		"blocView",
+		"model",
+		"shape" ],
+	"name" : "RSShapedObject",
 	"pools" : [
 		 ],
-	"super" : "RSShapedObject",
+	"super" : "RSObject",
 	"type" : "normal" }
