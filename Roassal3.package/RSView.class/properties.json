@@ -1,0 +1,14 @@
+{
+	"category" : "Roassal3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"elements" ],
+	"name" : "RSView",
+	"pools" : [
+		 ],
+	"super" : "RSObject",
+	"type" : "normal" }

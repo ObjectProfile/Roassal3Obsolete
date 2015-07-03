@@ -1,0 +1,14 @@
+{
+	"category" : "Roassal3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RSRoassalTest",
+	"pools" : [
+		 ],
+	"super" : "RSTest",
+	"type" : "normal" }
