@@ -1,15 +1,17 @@
 {
-	"category" : "Roassal3-Core",
+	"category" : "Roassal3-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"connectedEdges",
-		"shouldUpdateEdges" ],
-	"name" : "RSElement",
+		"e2",
+		"l",
+		"v",
+		"e1" ],
+	"name" : "RSEdgeTest",
 	"pools" : [
 		 ],
-	"super" : "RSShapedObject",
+	"super" : "TestCase",
 	"type" : "normal" }
