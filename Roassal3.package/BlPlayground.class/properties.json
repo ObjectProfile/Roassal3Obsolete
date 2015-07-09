@@ -1,0 +1,14 @@
+{
+	"category" : "Roassal3-BlocExtension",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BlPlayground",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

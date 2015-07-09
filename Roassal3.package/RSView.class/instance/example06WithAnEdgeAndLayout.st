@@ -1,7 +1,7 @@
 examples
-example05WithAnEdgeAndLayout
+example06WithAnEdgeAndLayout
 	"
-	self new example05WithAnEdgeAndLayout
+	self new example06WithAnEdgeAndLayout
 	"
 	| v e1 e2 l |
 	v := RSView new.

@@ -1,0 +1,14 @@
+{
+	"category" : "Roassal3-BlocExtension",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BlAddClosingBox",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

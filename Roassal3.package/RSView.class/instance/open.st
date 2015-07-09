@@ -6,5 +6,6 @@ open
 
 	| bm |
 	bm := self buildCompleteView inAScrollPane.
-	bm extent: 200 @ 200.
+	bm extent: 300 @ 300.
+	BlAddClosingBox on: bm.
 	bm openInWorld

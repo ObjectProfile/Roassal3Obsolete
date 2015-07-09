@@ -8,6 +8,6 @@ buildCompleteView
 				beNotPlainSurface;
 				borderStyle: (BlSolidRectangleBorder new width: 2);
 				color: Color white ].
-	bm extent: 400 @ 400.
 	self elementsAndEdgesDo: [ :element | element renderOn: bm ].
+	bm extent: self encompassingRectangleIncludingOrigin extent.
 	^ bm
