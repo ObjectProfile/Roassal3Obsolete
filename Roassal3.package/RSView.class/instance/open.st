@@ -5,5 +5,6 @@ open
 	"
 
 	| bm |
-	bm := self buildCompleteView.
+	bm := self buildCompleteView inAScrollPane.
+	bm extent: 200 @ 200.
 	bm openInWorld
